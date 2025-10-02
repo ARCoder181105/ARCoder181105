@@ -21,7 +21,7 @@
 
 #### Hacktoberfest 2025
 <p>
-  <img src="https://holopin.me/arcoder181105" width="100" title="Hacktoberfest badge"/>
+  <img src="https://holopin.me/arcoder181105"  title="Hacktoberfest badge"/>
 </p>
 
 ## 🏆 GitHub Trophies
