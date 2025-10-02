@@ -19,6 +19,11 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100" title="Postman Badge"/>
 </p>
 
+#### Hacktoberfest 2025
+<p>
+  [![An image of @arcoder181105's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arcoder181105)](https://holopin.io/@arcoder181105)
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ARCoder181105&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
