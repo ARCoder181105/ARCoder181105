@@ -85,11 +85,9 @@ Transformed static PDF libraries into an intelligent, searchable knowledge platf
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARCoder181105&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ARCoder181105&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARCoder181105&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ARCoder181105&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ARCoder181105&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARCoder181105&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
