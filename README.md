@@ -87,7 +87,14 @@ Transformed static PDF libraries into an intelligent, searchable knowledge platf
   
 ![](https://github-readme-stats.vercel.app/api?username=ARCoder181105&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ARCoder181105&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARCoder181105&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARCoder181105&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARCoder181105&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+
+
 
 </div>
 
@@ -109,7 +116,5 @@ I'm always interested in collaborating on innovative projects, discussing tech, 
 ### 💭 Developer Wisdom
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-![Profile Views](https://visitcount.itsvg.in/api?id=ARCoder181105&icon=2&color=6)
 
 </div>
