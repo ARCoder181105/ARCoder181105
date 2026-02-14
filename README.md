@@ -115,6 +115,7 @@ I'm always interested in collaborating on innovative projects, discussing tech, 
   
 ### 💭 Developer Wisdom
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) <br/>
+<img src="https://komarev.com/ghpvc/?username=ARCoder181105&style=flat-square&color=blue" alt="Profile views"/>
 
 </div>
