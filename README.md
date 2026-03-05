@@ -1,6 +1,20 @@
-# Hi there, I'm Aditya 👋
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=CCFF00&center=true&vCenter=true&random=false&width=800&lines=Hey%2C+I'm+Aditya;Full-Stack+Developer;Building+scalable+backends+%26+elegant+UIs;Developer+from+Pune+%F0%9F%87%AE%F0%9F%87%B3;)
 
-**Full-Stack Developer** specializing in building scalable backend systems and elegant frontend experiences.
+<br>
+
+<a href="https://www.thegitcity.com/dev/ARCODER181105">
+<img src="https://www.thegitcity.com/dev/ARCODER181105/opengraph-image" width="600" alt="Aditya - Git City"/>
+</a>
+
+<br>
+
+Open-Source Contributor  ·  Competitive Programmer  
+
+</div>
+
+
 
 ---
 
